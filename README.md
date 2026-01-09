@@ -34,33 +34,8 @@ Minha abordagem como QA é baseada em:
 
 ---
 
-## 🗂️ Estrutura do Repositório
 
-```
-qa-portfolio/
-│
-├── README.md
-├── cronograma/
-│   └── plano-de-estudos.md
-├── fundamentos/
-│   ├── tipos-de-teste.md
-│   └── conceitos-de-qa.md
-├── casos-de-teste/
-│   ├── web/
-│   └── mobile/
-├── bugs/
-│   └── bug-reports.md
-├── api/
-│   └── testes-api.md
-├── bdd/
-│   └── bdd-gherkin.md
-├── mobile/
-│   └── testes-mobile.md
-├── automacao/
-│   └── README.md
-└── entrevistas/
-    └── perguntas-e-respostas.md
-```
+
 
 ---
 
