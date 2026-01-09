@@ -96,6 +96,7 @@ O cronograma completo de estudos está documentado neste repositório e inclui:
 * Planejamento
 * Execução
 * Entregas práticas
+* Planejamento
 * Evolução contínua
 
 📄 **Acesse:** `cronograma/plano-de-estudos.md`
