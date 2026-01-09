@@ -36,9 +36,6 @@ Minha abordagem como QA é baseada em:
 
 
 
-
----
-
 ## 📘 Conteúdos Desenvolvidos
 
 ### ✅ Testes Manuais (Web)
@@ -96,7 +93,6 @@ Minha abordagem como QA é baseada em:
 
 O cronograma completo de estudos está documentado neste repositório e inclui:
 
-* Planejamento
 * Planejamento
 * Execução
 * Entregas práticas
